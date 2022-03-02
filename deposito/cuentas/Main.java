@@ -1,5 +1,9 @@
 package cuentas;//Apartado 1: Las clases deberán formar parte del paquete cuentas
-public class Main {
+/**
+ * @author pedro molina
+ * @version 1.0
+ * Clase principal para mostrar la información por pantalla
+ */public class Main {
 
     public static void main(String[] args) {
     	
